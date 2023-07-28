@@ -1,5 +1,5 @@
-baseURL = 'https://prashjha.github.io/COE-311K-website/'
-title = 'COE 311K'
+baseURL = 'https://prashjha.github.io/COE-311K-Fall2021-website/'
+title = 'COE 311K (Fall 2021)'
 theme = 'book'
 publishDir = 'docs'
 googleAnalytics = "UA-132780463-3"
